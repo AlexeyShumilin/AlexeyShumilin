@@ -12,7 +12,6 @@
 - Fact about me: **I like my dog**
 
 <h3 align="left">Connect me to:</h3>
-<p> shumil.alexey@gmail.com</p>
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="A" height="30" width="40" />
 </p>
@@ -24,7 +23,7 @@
 username=AlexeyShumilin&show_icons=true&locale=en&layout=compact" alt="Alexey" /></p> -->
  
  
- ![Alt Text](https://media.giphy.com/media/DANHDtLtLFJ6Hzmrlu/giphy.gif)
+ ![iam](https://media.giphy.com/media/DANHDtLtLFJ6Hzmrlu/giphy.gif)
  
  
  
