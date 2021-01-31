@@ -3,7 +3,7 @@
 
 -  I’m studying at [Praktikum by Yandex](https://praktikum.yandex.ru/)
 
--  I’m  learning: **React.js, Node.js, Vue.js Express and MongoDB and Python**
+-  I’m  learning: **React.js, Node.js, Vue.js Express, MongoDB and Python**
 
 -  My projects are available at [my GitHub](https://github.com/AlexeyShumilin)
 
