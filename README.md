@@ -22,8 +22,12 @@
 href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker"></a>  <a 
 href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript"></a>
  <a 
-href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/python/python-original-wordmark.svg" width="40" height="40" alt="python"></a>
+href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/python/python-original.svg" width="40" height="40" alt="python"></a>
  
+ href="https://www.npmjs.com/"><img src=" https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm"></a>
+ 
+ 
+
  
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?
 username=AlexeyShumilin&show_icons=true&locale=en&layout=compact" alt="Alexey" /></p> -->
