@@ -9,6 +9,8 @@
 
 -  Contact me: **shumil.alexey@gmail.com**
 
+- I speak: :sweden: :uk: 	:ru:
+
 - Fact about me: **I like my dog**
 
 <h3 align="left">Connect me to:</h3>
