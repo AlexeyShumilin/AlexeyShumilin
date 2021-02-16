@@ -11,7 +11,7 @@
 
 - I speak: :sweden: :uk: 	:ru:
 
-- Fact about me: **I like my dog**
+
 
 <h3 align="left">Connect me to:</h3>
 <a href="https://www.linkedin.com/in/alexey-shumilin-340088ba/" align="left">
