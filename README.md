@@ -12,9 +12,9 @@
 - Fact about me: **I like my dog**
 
 <h3 align="left">Connect me to:</h3>
-<p align="left">
+<a href="https://www.linkedin.com/in/alexey-shumilin-340088ba/" align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="A" height="30" width="40" />
-</p>
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
