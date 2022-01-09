@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋🏻, I'm Alexey</h1>
 <h3 align="center">An aspiring web developer from Helsinki</h3>
 
--  I’m studying at [Praktikum by Yandex](https://praktikum.yandex.ru/)
+-  [Praktikum by Yandex](https://praktikum.yandex.ru/)
 
--  I’m  learning: **React.js, Node.js, Vue.js Express, MongoDB and Python**
+-  : **React.js, Node.js, Vue.js Express, MongoDB and Python**
 
 -  My projects are available at [my GitHub](https://github.com/AlexeyShumilin)
 
 -  Contact me: **shumil.alexey@gmail.com**
 
-- I speak: :sweden: :uk: 	:ru:
+- I speak:  :sweden: :uk: 	:ru:
 
 
 
