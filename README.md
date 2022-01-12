@@ -13,23 +13,23 @@
 
 <h3 align="left">Projects:</h3>
 
-- Russian-travel
+- Russian-travel  
 https://alexeyshumilin.github.io/russian-travel/.  
 responsible one-page website about traveling in Russia.
 Created a Nested BEM file structure.
 To create grids, used flexbox and grid layout.
 Adapted for viewing at various screen resolutions.
 
-- Mesto
+- Mesto  
 https://alexeyshumilin.github.io/mesto/.  
 HTML/CSS(flexbox, grid), BEM, Javascript, Webpack
 
-- Mesto React
+- Mesto React  
 https://alexeyshumilin.github.io/mesto-react 
 Service for viewing and posting photos, with the ability to like, edit the profile. Written in React (hooks). All data is taken and sent to the server, there is form validation.
 React.js(hooks: useState, useEffect, useContext)  
 
-- Movies-explorer
+- Movies-explorer  
 https://github.com/AlexeyShumilin/movies-explorer-frontend
 https://github.com/AlexeyShumilin/movies-explorer-api
  Interactive page with movie search, where you can add / remove movies to favorites, edit user information. All information is stored on the server. User registration and authorization is also implemented. 
