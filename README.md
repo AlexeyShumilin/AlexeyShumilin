@@ -11,6 +11,27 @@
 
 - I speak:  :sweden: :uk: 	:ru:
 
+<h3 align="left">Projects:</h3>
+
+- https://alexeyshumilin.github.io/russian-travel/.  
+responsible one-page website about traveling in Russia.
+Created a Nested BEM file structure.
+To create grids, used flexbox and grid layout.
+Adapted for viewing at various screen resolutions.
+
+- Mesto
+ * https://alexeyshumilin.github.io/mesto/.  
+HTML/CSS(flexbox, grid), BEM, Javascript, Webpack
+
+- Mesto React
+- https://alexeyshumilin.github.io/mesto-react 
+React.js, Api 
+
+- Movies-explorer
+https://github.com/AlexeyShumilin/movies-explorer-frontend
+https://github.com/AlexeyShumilin/movies-explorer-api
+ Interactive page with movie search, where you can add / remove movies to favorites, edit user information. All information is stored on the server. User registration and authorization is also implemented. 
+React.js, Express.js
 
 
 <h3 align="left">Connect me to:</h3>
