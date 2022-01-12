@@ -38,7 +38,10 @@ React.js, Express.js
 
 <h3 align="left">Connect me to:</h3>
 <a href="https://www.linkedin.com/in/alexey-shumilin-340088ba/" align="left">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="A" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LI" height="30" width="40" />
+</a>
+<a href="mailto:shumil.alexey@gmail.com/" align="left">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="GM" height="30" width="40" />
 </a>
 
 
