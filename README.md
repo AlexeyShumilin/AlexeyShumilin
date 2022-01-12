@@ -13,7 +13,8 @@
 
 <h3 align="left">Projects:</h3>
 
-- https://alexeyshumilin.github.io/russian-travel/.  
+- Russian-travel
+https://alexeyshumilin.github.io/russian-travel/.  
 responsible one-page website about traveling in Russia.
 Created a Nested BEM file structure.
 To create grids, used flexbox and grid layout.
