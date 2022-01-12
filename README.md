@@ -20,12 +20,13 @@ To create grids, used flexbox and grid layout.
 Adapted for viewing at various screen resolutions.
 
 - Mesto
- * https://alexeyshumilin.github.io/mesto/.  
+https://alexeyshumilin.github.io/mesto/.  
 HTML/CSS(flexbox, grid), BEM, Javascript, Webpack
 
 - Mesto React
-- https://alexeyshumilin.github.io/mesto-react 
-React.js, Api 
+https://alexeyshumilin.github.io/mesto-react 
+Service for viewing and posting photos, with the ability to like, edit the profile. Written in React (hooks). All data is taken and sent to the server, there is form validation.
+React.js(hooks: useState, useEffect, useContext)  
 
 - Movies-explorer
 https://github.com/AlexeyShumilin/movies-explorer-frontend
