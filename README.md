@@ -3,7 +3,7 @@
 
 -  [Praktikum by Yandex](https://praktikum.yandex.ru/)
 
--  : **React.js, Node.js, Vue.js Express, MongoDB and Python**
+-  **React.js, Node.js, Vue.js Express, MongoDB and Python**
 
 -  My projects are available at [my GitHub](https://github.com/AlexeyShumilin)
 
